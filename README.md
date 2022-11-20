@@ -1,4 +1,4 @@
-# (Loan Data From Prosper)
+# Loan Data From Prosper
 ## by Joshua Olayori
 
 
