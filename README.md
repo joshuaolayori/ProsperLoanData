@@ -16,7 +16,8 @@ There is a negative correlation between borrower rate and loan amount while ther
 
 ## Key Insights for Presentation
 
->Original Loan Amount of Borrowers
->loan amounts of different listing categories
->Loan Amount Based on Term Length and Listing Category.
-
+* Original Loan Amount of Borrowers
+* Loan amounts of different listing categories
+* Loan Amount Based on Term Length and Listing Category.
+## Dataset Source
+Click [here](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv) to download the dataset
